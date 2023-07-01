@@ -1,5 +1,5 @@
 
-# Qiskit Metal - Qchip 8 Qubits
+# Qiskit Metal - Qchip 32 Qubits - Programmatically
 
 
 
